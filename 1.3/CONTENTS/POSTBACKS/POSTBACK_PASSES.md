@@ -23,7 +23,7 @@ TIMESTAMP &#8211; contains the timestamp when this pass was generated.<BR />
 <strong><p>This postback bundle has the following anatomy:</p></strong>
 <pre>
 &lt;POSTBACK xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:no
-NamespaceSchemaLocation ="http://www.skycore.com/schema/pass-postback.xsd"&gt;
+NamespaceSchemaLocation ="http://www.skycore.com/platform/schema/pass-postback.xsd"&gt;
     &lt;ORIGIN&gt;GENERATE_PASS&lt;/ORIGIN&gt;
     &lt;STATUSCODE&gt;N801&lt;/STATUSCODE&gt;
     &lt;REFERENCEDBY&gt;Email&lt;/REFERENCEDBY&gt;
